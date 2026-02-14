@@ -1,6 +1,8 @@
 # 🦅 Pandion AI Assistant
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/pandionverse/pandion-profile/main/avatar.png" width="150" alt="Pandion Avatar"/>
+  <br><br>
   <i>Your intelligent companion for education technology</i>
 </p>
 
